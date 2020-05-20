@@ -12,7 +12,7 @@ const mockUserData=[
               users: mockUserData
          })
     })
-    
+
 app.listen(8000,()=>{
     console.log("server is running")
     })
